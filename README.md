@@ -14,6 +14,9 @@ HTML: Structure of the calculator, including the display and buttons.
 CSS: Styling to ensure a responsive and visually appealing interface.
 JavaScript: Logic to handle user inputs, perform calculations, and manage the display.
 How to Use
+_**Open and Use the Calci here:**_
+https://vamsi0163.github.io/Calculator_FRONT_END/
+
 Clone the Repository:
 
 **bash
