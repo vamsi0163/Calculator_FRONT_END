@@ -21,7 +21,7 @@ Clone the Repository:
 
 **bash
 Copy code**
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/vamsi0163/calculator.git
 Open index.html: Open the index.html file in any web browser to start using the calculator.
 
 Customize: Feel free to modify the code to add more features or improve the design.
